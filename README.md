@@ -4,6 +4,8 @@
 
 ## 執行檔
 
+下載：https://github.com/noworneverev/EynyNovel/releases/download/1.0.0/main.exe
+
 ## 使用方法
 1. 準備<code>cookie.txt</code>
    1. 登錄eyny
